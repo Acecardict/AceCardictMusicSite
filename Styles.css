@@ -42,7 +42,7 @@ input{
 
 h1 { 
    color: rgb(183, 87, 24);
-   font-size: 3vw;
+   font-size: 4vw;
    color: #b97507;
    -webkit-text-stroke: 0.2vw #10c4e8;
 }
@@ -85,6 +85,6 @@ p {
 
 h4{
     color:red;
-   font-size: 2vw;
+   font-size: 3vw;
    -webkit-text-stroke:0.1vw #10c4e8;
 }
